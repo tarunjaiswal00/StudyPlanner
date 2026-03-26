@@ -1,5 +1,0 @@
-SUBJECT:Mathematics|#4A90E2
-TASK:Chapter 5 exercises||01-03-2026|HIGH|true
-TASK:Chapter 5||30-04-2026|HIGH|false
-SUBJECT:Physics|#E24A4A
-SUBJECT:Java Programming|#27AE60
